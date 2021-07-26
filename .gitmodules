@@ -1,0 +1,6 @@
+[submodule "backend-boilerplate"]
+	path = backend-boilerplate
+	url = git@github.com:learling/backend-boilerplate.git
+[submodule "frontend-boilerplate"]
+	path = frontend-boilerplate
+	url = git@github.com:learling/frontend-boilerplate.git
